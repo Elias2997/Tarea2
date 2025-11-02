@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Dell Inspiron 15",
+    "precio": 899.99,
+    "descripcion": "Laptop de alto rendimiento con procesador Intel Core i7, 16GB RAM y 512GB SSD",
+    "disponible": true,
+    "fecha_ingreso": "2025-01-15T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Inalámbrico Logitech",
+    "precio": 25.50,
+    "descripcion": "Mouse ergonómico inalámbrico con sensor óptico de alta precisión y batería de larga duración",
+    "disponible": true,
+    "fecha_ingreso": "2025-01-16T14:20:00.000Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 89.99,
+    "descripcion": "Teclado mecánico gaming con retroiluminación RGB personalizable y switches Cherry MX",
+    "disponible": false,
+    "fecha_ingreso": "2025-01-17T09:15:00.000Z"
+  }
+]
